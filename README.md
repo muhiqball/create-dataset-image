@@ -1,2 +1,2 @@
 # create-dataset-image
-create image picture
+create picture using webcam
